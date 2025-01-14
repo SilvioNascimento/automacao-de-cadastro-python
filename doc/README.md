@@ -10,7 +10,8 @@ Automação do processo de cadastro de milhares de produtos do Sistema usando Py
 ```bash
 .
 ├── database
-|   ├── produtos.csv
-|
+|   └── produtos.csv
+├── doc
+|   └── README.md
 └── main.py
 ```
