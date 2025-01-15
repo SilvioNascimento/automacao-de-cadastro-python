@@ -18,3 +18,7 @@ Automação do processo de cadastro de milhares de produtos do Sistema usando Py
 |   └── pegar_posicao.py
 └── main.py
 ```
+
+## Tecnologia utilizada
+- **Python**: Ambiente de execução Python para automação e captura precisa da posição na tela do monitor.
+
