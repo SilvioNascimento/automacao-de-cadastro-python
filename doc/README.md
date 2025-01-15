@@ -14,5 +14,7 @@ Automação do processo de cadastro de milhares de produtos do Sistema usando Py
 |   └── produtos.csv
 ├── doc
 |   └── README.md
+├── setting
+|   └── pegar_posicao.py
 └── main.py
 ```
