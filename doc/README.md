@@ -44,6 +44,18 @@ Para verificar as posições da sua tela, execute este programa abaixo e direcio
 ```bash
 python pegar_posicao.py
 ```
-Ou acesse a pasta ***setting*** e execute o programa *pegar_posicao.py*
+Ou acesse a pasta ***setting*** e execute o programa *pegar_posicao.py*.
 
-Após pegar as posições do campo de login e do código do produto, insere as novas coordenadas nas linhas 23 e 32 no código *main.py*
+Após pegar as posições do campo de login e do código do produto, insere as novas coordenadas nas linhas 23 e 32 no código *main.py* respectivamente.
+
+
+## Funcionalidades
+A seguir será informado sobre cada programa e sua respectiva funcionalidade:
+
+* **main.py**:
+
+    * Realiza o cadastro de produtos no sistema de forma automática
+
+* **pegar_posicao.py**:
+
+    * Pega a posição do cursor do mouse está na tela do monitor do computador ou notebook
