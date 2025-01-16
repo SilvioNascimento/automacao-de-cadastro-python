@@ -45,3 +45,5 @@ Para verificar as posições da sua tela, execute este programa abaixo e direcio
 python pegar_posicao.py
 ```
 Ou acesse a pasta ***setting*** e execute o programa *pegar_posicao.py*
+
+Após pegar as posições do campo de login e do código do produto, insere as novas coordenadas nas linhas 23 e 32 no código *main.py*
