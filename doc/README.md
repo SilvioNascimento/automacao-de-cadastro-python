@@ -6,6 +6,8 @@ Automação do processo de cadastro de milhares de produtos do Sistema usando Py
 - Link do sistema usado logo abaixo: 
     - [https://dlp.hashtagtreinamentos.com/python/intensivao/login](https://dlp.hashtagtreinamentos.com/python/intensivao/login)
 
+Este projeto foi desenvolvido durante a *Jornada Python* da **Hashtag Treinamentos**.
+
 
 ## Estrutura de Pastas
 ```bash
